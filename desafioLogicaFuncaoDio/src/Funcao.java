@@ -20,7 +20,7 @@ public class Funcao {
         System.out.println("O Héroi tem o saldo de " 
         + saldo + " está no nível Prata");
         }
-        else if(saldo > 51 && saldo < 81) {
+        else if(saldo > 51 && saldo < 81) { 
         System.out.println("O Héroi tem o saldo de " 
         + saldo + " está no nível Ouro");
         }
